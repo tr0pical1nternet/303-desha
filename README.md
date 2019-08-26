@@ -1,2 +1,2 @@
 # 303-desha
-An illustration of house in a 1920s illustration style
+An illustration of house built in the 1920s. Working on this in Inkscape.
