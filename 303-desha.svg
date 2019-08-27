@@ -61,8 +61,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="363.5126"
-     inkscape:cy="306.7874"
+     inkscape:cx="396.98844"
+     inkscape:cy="171.48639"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -81,7 +81,7 @@
      inkscape:snap-bbox="false"
      inkscape:bbox-nodes="false"
      inkscape:bbox-paths="true"
-     inkscape:snap-global="false"
+     inkscape:snap-global="true"
      inkscape:object-paths="true"
      inkscape:object-nodes="true"
      inkscape:snap-nodes="true" />
@@ -311,8 +311,8 @@
        id="rect1066"
        width="68.130211"
        height="4.3656249"
-       x="94.456245"
-       y="144.19792" />
+       x="94.059364"
+       y="144.06563" />
     <rect
        id="rect39"
        width="35.189583"
